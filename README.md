@@ -40,6 +40,6 @@ Input directions carefully without trailing spaces to ensure valid game response
 
 # Author
 
-Vraj Patel (Username: PATVN002, Student ID: 110422159)
+Vraj Patel (Username: PATVN002)
 
 This project complies with the University's Academic Misconduct Policy.
